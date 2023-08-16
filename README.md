@@ -4,4 +4,4 @@ On this notebook we will be analyzing Mexico's performance againts Poland in the
 
 This is analysis was made by [@MauricioSoria](https://www.linkedin.com/in/mauricio-soria1/)
 
-With special help of [@MPLSoccer](https://mplsoccer.readthedocs.io/en/latest/index.html) with the code, and [@StatsBomb](https://statsbomb.com/es/noticias/datos-gratuitos-la-copa-mundial-2022-con-statsbomb-360/l) who shared the open data
+With special help of [@MPLSoccer](https://mplsoccer.readthedocs.io/en/latest/index.html) with the template for the code, and [@StatsBomb](https://statsbomb.com/es/noticias/datos-gratuitos-la-copa-mundial-2022-con-statsbomb-360/l) who shared the open data
